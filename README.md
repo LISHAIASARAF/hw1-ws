@@ -6,6 +6,7 @@ https://students123.herokuapp.com/students     לאובייקט ללא פרמט�
 
 JSONזו פונקציה שמציגה את כל הרשימה ששמורה בקובץ ה
 בדוגמה שלי היא מציגה את כל רשימת הסטודנטים
+
  GET היא לא מקבלת פרמטר אך מבצעת פעולת  
 
 https://students123.herokuapp.com/getStudGrade/123   לנתון לפי פרמטר שמגיע GET פונקציית
