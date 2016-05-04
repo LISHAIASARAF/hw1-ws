@@ -1,4 +1,7 @@
-
+{ "scripts" :
+  { "start" : "node index.js"
+  }
+}
 [ 
 {"id":123,
 "course": "math",
