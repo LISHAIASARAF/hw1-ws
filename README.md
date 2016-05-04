@@ -1,5 +1,6 @@
 # hw1-ws
-
+hw1 - students
+WS לניהול סטודנטים בשנקר
 
 https://students123.herokuapp.com/students     לאובייקט ללא פרמטר GET פונקציית 
 JSONזו פונקציה שמציגה את כל הרשימה ששמורה בקובץ ה
